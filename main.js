@@ -45,4 +45,5 @@ client.on('message', message => {
     }
 });
 
-client.login('ODg3NTMxNDAwMTE3NDg1NTk4.YUFgBw.5yqydDEbckTire8wTx9V-BW4V7M');
+client.login('');   // Token activates Discord Bot
+                    // Token is not visible to prevent unauthorized usage
